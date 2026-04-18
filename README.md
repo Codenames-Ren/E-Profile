@@ -6,7 +6,7 @@ A web-based profile and student registration system for an elementary school.
 
 * Backend: Laravel 13
 * Frontend: Blade (Laravel Breeze)
-* Database: PostgreSQL (Supabase - planned)
+* Database: PostgreSQL (Supabase)
 
 ## 📌 Planned Features
 
@@ -14,7 +14,7 @@ A web-based profile and student registration system for an elementary school.
 * Academic information
 * Student registration system
 * Admin dashboard for managing student data
-* Authentication (login & register)
+* Authentication
 
 ## ⚙️ Project Setup
 
@@ -45,10 +45,3 @@ php artisan key:generate
 php artisan serve
 npm run dev
 ```
-
-## 🧪 Development Notes
-
-* This project uses a monolithic architecture
-* API endpoints are used for backend testing (via Postman)
-* Database integration will use Supabase (PostgreSQL)
-* Frontend will be handled separately based on team decisions
