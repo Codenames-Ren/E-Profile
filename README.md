@@ -52,7 +52,3 @@ npm run dev
 * API endpoints are used for backend testing (via Postman)
 * Database integration will use Supabase (PostgreSQL)
 * Frontend will be handled separately based on team decisions
-
-## 👨‍💻 Author
-
-* Ren
